@@ -10,7 +10,7 @@
 ### 🤙 How to reach me
 
 <p>
-  <a href="https://twitter.com/AtharvaBhanage" rel="nofollow">
+  <a href="https://twitter.com/AjinkyaDineshJ1" rel="nofollow">
     <img src="https://img.shields.io/twitter/follow/AtharvaBhanage?label=Twitter&logo=twitter&style=for-the-badge&color=blue" style="max-width: 100%;">
   </a>
   &nbsp &nbsp
