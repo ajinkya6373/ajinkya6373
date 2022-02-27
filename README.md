@@ -29,8 +29,8 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvabhanage02&show_icons=true&theme=radical" alt="atharvabhanage02" />
 </p>
 <p>
-  <img width=48% src="https://github-readme-stats.vercel.app/api?username=atharvabhanage02&show_icons=true&layout&theme=radical" alt="atharvabhanage02" /> &nbsp &nbsp
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvabhanage02&layout&theme=radical" />
+  <img width=48% src="https://github-readme-stats.vercel.app/api?username=ajinkya6373&show_icons=true&layout&theme=radical" alt="ajinkya6373" /> &nbsp &nbsp
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya6373&layout&theme=radical" />
 </p>
 
 
@@ -39,7 +39,7 @@
   ### � Top Repositories
   
   <p>
-  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=atharvabhanage02&repo=is-your-birthday-lucky" />
+  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkya6373&repo=is-your-birthday-lucky" />
   &nbsp &nbsp
-  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=atharvabhanage02&repo=fun-with-triangles" />
+  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkya6373&repo=fun-with-triangles" />
 </p>
