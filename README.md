@@ -22,7 +22,7 @@
 ## 📊 <strong> My Github Stats 🚀 </strong>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atharvabhanage02l&color=green&color=green" alt="atharvabhanage02" /> 
+  <img src="https://komarev.com/ghpvc/?username=ajinkya6373&color=green&color=green" alt="ajinkya6373" /> 
 </p>
  
  <p>
