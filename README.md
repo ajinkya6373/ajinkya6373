@@ -26,7 +26,7 @@
 </p>
  
  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvabhanage02&show_icons=true&theme=radical" alt="atharvabhanage02" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkya6373&show_icons=true&theme=radical" alt="ajinkya6373" />
 </p>
 <p>
   <img width=48% src="https://github-readme-stats.vercel.app/api?username=ajinkya6373&show_icons=true&layout&theme=radical" alt="ajinkya6373" /> &nbsp &nbsp
