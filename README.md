@@ -3,15 +3,15 @@
 ### I'm a 3rd year Undergrad.
 
 - 🔭 I’m currently working on improving my skills everyday.
-- 🌱 I’m currently learning DSA,HTML,CSS and JS
-- 📚 I love reading books.
+- 🌱 I’m currently learning MERN stack development
+- 📚 I love watch anime,webseries,movies
 - 📫 How to reach me at **ajinkyjadhav80586@gmail.com**
 
 ### 🤙 How to reach me
 
 <p>
   <a href="https://twitter.com/AjinkyaDineshJ1" rel="nofollow">
-    <img src="https://img.shields.io/twitter/follow/AtharvaBhanage?label=Twitter&logo=twitter&style=for-the-badge&color=blue" style="max-width: 100%;">
+    <img src="https://img.shields.io/twitter/follow/AjinkyaDineshJ1?label=Twitter&logo=twitter&style=for-the-badge&color=blue" style="max-width: 100%;">
   </a>
   &nbsp &nbsp
   <a href="https://www.linkedin.com/in/ajinkya-jadhav-760997196/" rel="nofollow">
