@@ -39,7 +39,7 @@
   ### � Top Repositories
   
   <p>
-  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkya6373&repo=is-your-birthday-lucky" />
+  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkya6373&repo=SocialClient" />
   &nbsp &nbsp
   <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkya6373&repo=fun-with-triangles" />
 </p>
