@@ -41,7 +41,5 @@
   <p>
   <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkya6373&repo=SocialClient" />
   &nbsp &nbsp
-  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkya6373&repo=
-Amazon-Clone
-" />
+  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkya6373&repo=Amazon-Clone" />
 </p>
