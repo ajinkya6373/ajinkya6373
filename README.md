@@ -1,6 +1,6 @@
 # Hi 👋 I'm Ajinkya 
 
-### I'm a 3rd year Undergrad.
+### I'm a 4th year Undergrad.
 
 - 🔭 I’m currently working on improving my skills everyday.
 - 🌱 I’m currently learning MERN stack development
