@@ -39,7 +39,7 @@
   ### � Top Repositories
   
   <p>
-  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkya6373&repo=SocialClient" />
+  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkya6373&repo=shareSpace" />
   &nbsp &nbsp
-  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkya6373&repo=Amazon-Clone" />
+  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkya6373&repo=petties" />
 </p>
