@@ -1,45 +1,70 @@
-# Hi 👋 I'm Ajinkya 
+# 👋 Hi, I'm Ajinkya Jadhav!
 
-### I'm a 4th year Undergrad.
+### 🚀 Passionate Full Stack Developer
 
-- 🔭 I’m currently working on improving my skills everyday.
-- 🌱 I’m currently learning MERN stack development
-- 📚 I love watch anime,webseries,movies
-- 📫 How to reach me at **ajinkyjadhav80586@gmail.com**
+- 🔭 Always working on building full stack applications from scratch and learning new technologies.
+- 🌱 Currently focusing on deepening my skills in the **MERN stack**, Next.js, and modern front-end frameworks.
+- 💡 Love to solve problems and create clean, scalable, and user-centric web applications.
+- 📚 Outside of coding, I enjoy watching anime, web series, and movies.
+- 📫 Reach me at **ajinkyajadhav80586@gmail.com**
 
-### 🤙 How to reach me
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Next.js, TypeScript, Redux, Tailwind CSS, Ant Design
+- **Backend:** Node.js, Express.js, tRPC, Prisma
+- **Database:** MongoDB, MySQL, PostgreSQL
+- **Others:** AWS S3, JWT Auth, Firebase, Git & GitHub
+
+---
+
+## 🤝 Connect with me
 
 <p>
-  <a href="https://twitter.com/AjinkyaDineshJ1" rel="nofollow">
-    <img src="https://img.shields.io/twitter/follow/AjinkyaDineshJ1?label=Twitter&logo=twitter&style=for-the-badge&color=blue" style="max-width: 100%;">
+  <a href="https://twitter.com/AjinkyaDineshJ1" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/AjinkyaDineshJ1?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
-  &nbsp &nbsp
-  <a href="https://www.linkedin.com/in/ajinkya-jadhav-760997196/" rel="nofollow">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelcolor=blue" style="max-width: 100%;">
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ajinkya-jadhav-760997196/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue" />
   </a>
 </p>
 
-## 📊 <strong> My Github Stats 🚀 </strong>
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajinkya6373&color=green&color=green" alt="ajinkya6373" /> 
-</p>
- 
- <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkya6373&show_icons=true&theme=radical" alt="ajinkya6373" />
-</p>
-<p>
-  <img width=48% src="https://github-readme-stats.vercel.app/api?username=ajinkya6373&show_icons=true&layout&theme=radical" alt="ajinkya6373" /> &nbsp &nbsp
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya6373&layout&theme=radical" />
+  <img src="https://komarev.com/ghpvc/?username=ajinkya6373&color=green" alt="Profile views" />
 </p>
 
-
-
-  
-  ### � Top Repositories
-  
-  <p>
-  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkya6373&repo=shareSpace" />
-  &nbsp &nbsp
-  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkya6373&repo=petties" />
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkya6373&theme=radical" alt="Streak stats" />
 </p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ajinkya6373&show_icons=true&theme=radical" alt="GitHub stats" />
+  &nbsp;&nbsp;
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya6373&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+---
+
+## ⭐ Featured Repositories
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkya6373&repo=shareSpace&theme=radical" />
+  &nbsp;&nbsp;
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkya6373&repo=petties&theme=radical" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+I love building things from the ground up and continuously pushing my limits — whether it's solving complex LeetCode problems or creating new side projects!
+
+---
+
+⭐️ Thanks for visiting my profile!
