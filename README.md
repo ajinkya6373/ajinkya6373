@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ajinkya Jadhav!
 
-### 🚀 Passionate Full Stack Developer with 2+ Years of Experience
+### 🚀 Passionate Full Stack Developer with 3+ Years of Experience
 
 - 🔭 Always working on building full-stack applications from scratch and learning new technologies.
 - 🌱 Currently focusing on deepening my skills in the **MERN stack**, Next.js, and modern front-end frameworks.
